@@ -16,5 +16,5 @@
 
 <h3 align="left">I regularly write articles on:</h3>
 <a href="https://bradley-tucker.medium.com" target="blank"><img align="center" 
-src="[medium.png](https://cdn-icons-png.flaticon.com/512/4401/4401405.png)" alt="Bradley-Tucker" height="30" width="40" /></a>
+src="https://cdn-icons-png.flaticon.com/512/4401/4401405.png" alt="Bradley-Tucker" height="30" width="40" /></a>
 </p>
