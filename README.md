@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manonshearn&label=Profile%20views&color=0e75b6&style=flat" alt="manonshearn" /> </p>
 
-- 🌱 Experience with Front-End technologies: **HTML5, CSS3, Ruby and JavaScript** **coding in Ruby
+- 🌱 Experience with Front-End technologies: **HTML5, CSS3, Ruby and JavaScript** 
 - 🌱 Experience with UI/UX technologies: **Figma, Wireframes**
 
 <h3 align="left">Connect with me:</h3>
