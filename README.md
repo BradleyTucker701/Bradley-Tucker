@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bradley Tucker</h1>
 <h3 align="center">I am a Front-End Developer and aspiring UI/UX Designer with copywriting experience</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bradleytucker&label=Profile%20views&color=0e75b6&style=flat" alt="bradleytucker" /> </p>
+
 - 🌱 Experience with Front-End technologies: **HTML5, CSS3, Ruby and JavaScript** 
 - 🌱 Experience with UI/UX technologies: **Figma, Wireframes**
 
