@@ -3,8 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bradleytucker&label=Profile%20views&color=0e75b6&style=flat" alt="bradleytucker" /> </p>
 
-- 🌱 Experience with Front-End technologies: **HTML5, CSS3, Ruby and JavaScript** 
+- 🌱 Experience with Front-End & Back-End languages: **HTML5, CSS3, Ruby, Python and JavaScript** 
 - 🌱 Experience with UI/UX technologies: **Figma, Wireframes**
+- 🌱 Experience with Database languages and Libraries: **SQL, Active Record**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
